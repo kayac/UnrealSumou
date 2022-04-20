@@ -1,0 +1,15 @@
+Library/
+Temp/
+obj/
+Logs/
+Recordings/
+UserSettings/
+*.app
+*.aab
+*.apk
+*.sln
+*.csproj
+*.swp
+build/
+Build_*
+.DS_Store
