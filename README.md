@@ -1,6 +1,6 @@
 # UnrealSumou
 
-![screenShot.png]()
+![screenShot.png](https://github.com/kayac/UnrealSumou/blob/4cb40c981bb881ad84665d324d258d833a384c38/screenShot.png)
 
 Kayac社内のイベントで開発した相撲ゲームです。
 
