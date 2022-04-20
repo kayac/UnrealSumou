@@ -3,6 +3,7 @@
 ![screenShot.png](https://github.com/kayac/UnrealSumou/blob/4cb40c981bb881ad84665d324d258d833a384c38/screenShot.png)
 
 Kayac社内のイベントで開発した相撲ゲームです。
+開発の経緯と処理の概要については、[技術ブログの記事](https://techblog.kayac.com/sumo-game-memories)があるのでそちらを参照ください。
 
 ## インストール
 
