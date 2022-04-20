@@ -30,3 +30,10 @@ Resources/Sound以下に音声ファイルを配置してファイル名を指�
 また、キャラクターが土俵に埋まった状態でゲームが始まりますが、
 これは一部のアニメーションを削除してあるためです。
 あらかじめご了承ください。
+
+## ライセンス表示
+
+© Unity Technologies Japan/UCL
+
+https://unity-chan.com/contents/guideline/
+
