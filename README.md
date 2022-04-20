@@ -1,5 +1,7 @@
 # UnrealSumou
 
+![screenShot.png]()
+
 Kayac社内のイベントで開発した相撲ゲームです。
 
 ## インストール
